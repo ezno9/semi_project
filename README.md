@@ -1,13 +1,13 @@
 # DOM Critic
-### 기간 : 2020.07-2020.07
-### **개발 환경**
+### 1. 기간 : 2020.07 - 2020.07
+### 2. **개발 환경**
 - OS : Window OS, MAC OS
 - Language : JAVA, HTML5, CSS3, JS, JQuery
 - DB: Oracle Database 11g
 - Server : Apache Tomcat 9.0
 - IDE : Eclipse, DBeaver
 
-### 구현 기능 
+### 3. 구현 기능 
 * 로그인 및 회원가입 (카카오 API 연동)
    - 로그인 시 마이페이지 구현 / ID 와 PW 찾기
    - 로그인 없이 평점 및 평가 작성 불가
